@@ -8,11 +8,11 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: 'Mulish', sans-serif;
-    background-color:#E4D6A7;
+    background-color:#4b65a9;
 }
 
 .header {
-    background-color: #f1f1f1;
+    background-color: #dcdcdc;
     width: 100%;
     padding: 20px 0; /* Add vertical padding */
     position: fixed; /* Fixed position to keep it at the top */
